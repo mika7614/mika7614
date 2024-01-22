@@ -1,4 +1,4 @@
-### Welcome to my Github.👋 <br><br>
+### Welcome to my Github.👋 <br>
 I am Mika, a M.S. graduate from Guilin University of Electronic Technology. <br><br>
 My research interests focus on regularization-based continual learning. <br><br>
 Publications are shown below: <br><br>
