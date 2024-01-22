@@ -1,6 +1,8 @@
 ### Welcome to my github.👋 <br>
-I am a M.S. graduate from Guilin University of Electronic Techonology. <br>
-My research interests focus on regularization-based continual learning.
+I am a M.S. graduate from Guilin University of Electronic Technology. <br>
+My research interests focus on regularization-based continual learning. <br>
+Publications are shown below: <br>
+[Neuron importance algorithm for continual learning](https://doi.org/10.1117/12.3009542)
 
 <!--
 **mika7614/mika7614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### https://doi.org/10.1117/12.3009542
+
