@@ -1,6 +1,6 @@
 ### Welcome to my Github.👋 <br>
 I am Huang Shengyang, a M.S. graduate from Guilin University of Electronic Technology. <br><br>
-My research interests focus on regularization-based continual learning. <br><br>
+My research interests focus on continual learning, machine Learning. <br><br>
 Publications are shown below: <br><br>
 &nbsp; - &nbsp;[Neuron importance algorithm for continual learning](https://doi.org/10.1117/12.3009542)<br><br>
 &nbsp; - &nbsp;[Fixed Random Classifier Rearrangement for Continual Learning](https://arxiv.org/abs/2402.15227)
