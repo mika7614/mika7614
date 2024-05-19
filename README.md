@@ -1,5 +1,3 @@
-<div align="center"> <img src="https://profile-counter.glitch.me/mika7614/count.svg" /> </div>
-
 ### Welcome to my Github.👋 <br>
 
 I am Huang Shengyang, a M.S. graduate from Guilin University of Electronic Technology. <br><br>
@@ -10,6 +8,7 @@ Publications are shown below: <br><br>
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mika7614&show_icons=true&theme=transparent" /> </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mika7614&layout=compact&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://profile-counter.glitch.me/mika7614/count.svg" /> </div>
 
 <!--
 **mika7614/mika7614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
