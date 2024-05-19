@@ -6,9 +6,15 @@ Publications are shown below: <br><br>
 &nbsp; - &nbsp;[Neuron importance algorithm for continual learning](https://doi.org/10.1117/12.3009542)<br><br>
 &nbsp; - &nbsp;[Fixed Random Classifier Rearrangement for Continual Learning](https://arxiv.org/abs/2402.15227)
 
+<!--
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mika7614&show_icons=true&theme=transparent" /> </div>
+-->
+
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mika7614&layout=compact&theme=tokyonight" /> </div>
+
+<!--
 <div align="center"> <img src="https://profile-counter.glitch.me/mika7614/count.svg" /> </div>
+-->
 
 <!--
 **mika7614/mika7614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
