@@ -9,7 +9,9 @@ Publications are shown below: <br><br>
 <!--
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mika7614&show_icons=true&theme=transparent" /> </div>
 -->
+
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mika7614&layout=compact&theme=tokyonight" /> </div>
+
 <!--
 <div align="center"> <img src="https://profile-counter.glitch.me/mika7614/count.svg" /> </div>
 -->
